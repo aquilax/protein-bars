@@ -1,0 +1,15 @@
+title: "Strawberry & yoghurt 45g ProteinPRO"
+producer: "ProteinPRO"
+date: "2018-06-06"
+market:
+  - se
+flavor:
+  - strawberry
+  - yogurt
+package: 45
+nutrition:
+  calories: 356
+  fat: 9.20
+  carbs: 28
+  sugar: 1.4
+  protein: 50
