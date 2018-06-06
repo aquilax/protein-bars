@@ -1,2 +1,2 @@
 # protein-bars
-Protein bar picker
+Protein bar selector

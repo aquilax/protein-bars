@@ -1,0 +1,4 @@
+baseURL = "https://protein-bar.bazadanni.com/"
+languageCode = "en-us"
+title = "Protein Bar Selector"
+theme = "blank"
